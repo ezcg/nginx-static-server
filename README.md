@@ -8,4 +8,4 @@ Thereafter, just do:
 
 docker-compose up
 
-Open http://localhost:8080 in your browser.
+Open http://localhost:8184 in your browser.
